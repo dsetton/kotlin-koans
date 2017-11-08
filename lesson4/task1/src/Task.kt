@@ -12,5 +12,6 @@ class PropertyExample() {
      }
 }
 
+//duvida
 //"field" pode assumir a forma(variavel para outra variavel) de
 //qualquer "var" da classe?

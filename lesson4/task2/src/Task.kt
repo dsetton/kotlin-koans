@@ -4,4 +4,13 @@ class LazyProperty(val initializer: () -> Int) {
         get() {
             TODO()
         }
+    /*
+    fun getLazy(): Int{
+        return this.lazy
+    }
+    */
 }
+
+
+//duvida
+//???

@@ -4,7 +4,6 @@ class Invokable {
     operator fun invoke(): Invokable {
         this.numberOfInvocations++
         return this
-        TODO()
     }
 }
 
