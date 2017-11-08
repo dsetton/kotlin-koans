@@ -6,3 +6,6 @@ fun doSomethingStrangeWithCollection(collection: Collection<String>): Collection
 
     return groupsByLength.values.firstOrNull { group -> TODO() }
 }
+
+
+//???

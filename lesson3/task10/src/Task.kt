@@ -2,3 +2,6 @@
 fun Shop.getSetOfProductsOrderedByEveryCustomer(): Set<Product> {
     TODO()
 }
+
+
+//???

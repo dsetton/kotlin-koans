@@ -18,3 +18,4 @@ class EffectiveDate<R> : ReadWriteProperty<R, MyDate> {
     }
 }
 
+//???

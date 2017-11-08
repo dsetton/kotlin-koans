@@ -12,5 +12,5 @@ class LazyProperty(val initializer: () -> Int) {
 }
 
 
-//duvida
+
 //???

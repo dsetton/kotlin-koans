@@ -9,3 +9,6 @@ fun Shop.countCustomersFrom(city: City): Int = TODO()
 
 // Return a customer who lives in the given city, or null if there is none
 fun Shop.findAnyCustomerFrom(city: City): Customer? = TODO()
+
+
+//???
