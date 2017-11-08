@@ -1,1 +1,2 @@
-fun Shop.getSetOfCustomers(): Set<Customer> = TODO()
+fun Shop.getSetOfCustomers(): Set<Customer> = customers.toSet()
+//Customers -> Shop.kt
