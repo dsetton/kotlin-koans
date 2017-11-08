@@ -2709,7 +2709,7 @@
                                           <option name="offset" value="114" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="29" />
                                       <option name="offset" value="114" />
                                       <option name="selected" value="false" />
                                       <option name="subtaskInfos">
@@ -2738,7 +2738,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
