@@ -1246,7 +1246,7 @@
                     <PyCharmTask>
                       <option name="index" value="3" />
                       <option name="name" value="Range to" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234735" />
                       <option name="taskTexts">
                         <map>
@@ -1290,9 +1290,9 @@
                                           <option name="offset" value="45" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="53" />
                                       <option name="offset" value="45" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -1309,7 +1309,7 @@
                                                 <option name="placeholderText" value="TODO()" />
                                                 <option name="possibleAnswer" value="DateRange(this, other)" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -1319,7 +1319,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -1519,7 +1519,7 @@
                                           <option name="offset" value="318" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="71" />
+                                      <option name="length" value="64" />
                                       <option name="offset" value="318" />
                                       <option name="selected" value="true" />
                                       <option name="subtaskInfos">
@@ -1548,7 +1548,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="true" />
+                                <option name="highlightErrors" value="false" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -1564,7 +1564,7 @@
                     <PyCharmTask>
                       <option name="index" value="6" />
                       <option name="name" value="Destructuring declarations" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234738" />
                       <option name="taskTexts">
                         <map>
@@ -1592,7 +1592,7 @@
                                           <option name="offset" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="10" />
+                                      <option name="length" value="16" />
                                       <option name="offset" value="0" />
                                       <option name="selected" value="false" />
                                       <option name="subtaskInfos">
@@ -1611,7 +1611,7 @@
                                                 <option name="placeholderText" value="/* TODO */" />
                                                 <option name="possibleAnswer" value="data " />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -1621,7 +1621,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -1637,7 +1637,7 @@
                     <PyCharmTask>
                       <option name="index" value="7" />
                       <option name="name" value="Invoke" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234739" />
                       <option name="taskTexts">
                         <map>
@@ -1666,8 +1666,8 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="length" value="6" />
-                                      <option name="offset" value="122" />
-                                      <option name="selected" value="false" />
+                                      <option name="offset" value="177" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -1684,7 +1684,7 @@
                                                 <option name="placeholderText" value="TODO()" />
                                                 <option name="possibleAnswer" value="numberOfInvocations++&#10;        return this" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -1694,7 +1694,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -1764,7 +1764,7 @@
                                           <option name="offset" value="46" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="40" />
+                                      <option name="length" value="17" />
                                       <option name="offset" value="46" />
                                       <option name="selected" value="true" />
                                       <option name="subtaskInfos">
@@ -2219,9 +2219,9 @@
                                           <option name="offset" value="99" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="15" />
                                       <option name="offset" value="99" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -2255,7 +2255,7 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="length" value="6" />
-                                      <option name="offset" value="222" />
+                                      <option name="offset" value="231" />
                                       <option name="selected" value="false" />
                                       <option name="subtaskInfos">
                                         <map>
@@ -2283,7 +2283,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -2361,7 +2361,7 @@
                                       </option>
                                       <option name="length" value="6" />
                                       <option name="offset" value="135" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -2396,7 +2396,7 @@
                                       </option>
                                       <option name="length" value="6" />
                                       <option name="offset" value="261" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3340,7 +3340,7 @@
                     <PyCharmTask>
                       <option name="index" value="1" />
                       <option name="name" value="Properties" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234752" />
                       <option name="taskTexts">
                         <map>
@@ -3368,9 +3368,9 @@
                                           <option name="offset" value="95" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="3" />
-                                      <option name="offset" value="95" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="71" />
+                                      <option name="offset" value="235" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3387,7 +3387,7 @@
                                                 <option name="placeholderText" value="set" />
                                                 <option name="possibleAnswer" value="set(v: Int?) {&#10;            field = v&#10;            counter++&#10;        }" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3397,7 +3397,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
