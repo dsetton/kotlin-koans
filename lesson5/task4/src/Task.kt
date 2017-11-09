@@ -2,6 +2,9 @@ fun renderProductTable(): String {
     return html {
         table {
             tr /* TODO */{
+
+                //colorir???
+
                 td {
                     text("Product")
                 }
@@ -13,7 +16,23 @@ fun renderProductTable(): String {
                 }
             }
             val products = getProducts()
-            TODO()
+
+            var _prod: Product
+
+            for(_prod in products){
+                println(_prod.description)
+                println( _prod.popularity)
+                println( _prod.price)
+                println("-----------------------------")
+
+            }
+            /*
+            * print cactus
+            * print cake
+            * print camera
+            * print car
+            * ...
+            * */
         }
     }.toString()
 }
