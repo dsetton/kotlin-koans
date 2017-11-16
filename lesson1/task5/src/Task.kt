@@ -1,5 +1,5 @@
 fun containsEven(collection: Collection<Int>): Boolean = collection.any {
-    it == 126
+    it % 2 == 0
  }
 
 /*import org.junit.Test
